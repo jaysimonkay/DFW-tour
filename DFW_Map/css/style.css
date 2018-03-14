@@ -1,0 +1,90 @@
+body{
+    font-family: Raleway, sans-serif;
+}
+
+#map {
+    position: relative;
+    z-index: 1;
+}
+
+#accordion{
+    position: absolute;
+    z-index: 2;
+    top: 75px;
+    left: 20px;
+}
+
+.sidebar_width {
+    min-width: 300px;
+}
+
+.sidebar_hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(255,255,255,1);
+}
+
+.location_list {
+    padding: 10px;
+    border-top: 1px solid black;
+}
+
+.location_list:hover {
+    color: #f5f5f5;
+    background-color: #555;
+    }
+
+.title {
+    font-size: 1.3em;
+}
+
+.subtitle {
+    font-size: 1em;
+}
+
+.address_title {
+    margin-bottom: 2px;
+    font-size: .95em;
+}
+
+.address {
+    margin-bottom: 0;
+    font-size: .9em;
+}
+
+.padding-zero {
+    padding: 0 0 0 0;
+}
+
+.padding-sides-10 {
+    padding: 0 10px 0 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 1em;
+    padding-left: 5px;
+}
+
+.reset-container {
+    position: absolute;
+    z-index: 2;
+    bottom: 0;
+    left: 20px;
+}
+
+@media (max-width: 768px) {
+    .search {
+        font-size: .7em;
+        margin-top: 5px;
+    }
+}
+
+.map_error {
+    color: white;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
