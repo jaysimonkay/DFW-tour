@@ -17,11 +17,11 @@ This DFW-Tour is developed in Basic HTML, CSS, Javascript, jQuery and KnockoutJS
 
 ## APIs
 Google Maps API is used here to show the map and generate the markers etc.
-Foursquare API is used to pull more information tourist attractions in the Dallas Fort-Worth Area
+Foursquare API is used to pull more information on tourist attractions in the Dallas Fort-Worth Area
 
 ## Quick Start
 
-- Download the project
+- Download or clone this repo
 - Open `index.html` on your browser
 
 
