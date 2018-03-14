@@ -1,10 +1,10 @@
-# Neighborhood Map
+# DFW-Tour
 
 > Jude B. Kuti
 
 ## About
-
-This Neighborhood Map project is developed in Basic HTML, CSS, Javascript, jQuery and KnockoutJS framework. Google Maps and FourSquare API's  were consumed to give information. KnockoutJS brings an MVVM flavour to the design.
+As a newcomer to the DFW area, I wanted to familiarize myself with the interesting sites in this amazing city. So this is my way of doing it...
+This DFW-Tour is developed in Basic HTML, CSS, Javascript, jQuery and KnockoutJS framework. Google Maps and FourSquare API's  were consumed to give information. KnockoutJS brings an MVVM flavour to the design. 
 
 
 # Javascript Files
