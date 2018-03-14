@@ -27,11 +27,7 @@ Foursquare API is used to pull more information tourist attractions in the Dalla
 
 ### Reference materials
 https://developers.google.com/maps/documentation/javascript/
-
 https://developer.foursquare.com/
-
-https://www.w3schools.com/
-
 http://www.knockmeout.net/2011/04/utility-functions-in-knockoutjs.html
 
 
