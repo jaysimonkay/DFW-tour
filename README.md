@@ -1,6 +1,6 @@
 # DFW-Tour
 
-> Jude B. Kuti
+
 
 ## About
 As a newcomer to the DFW area, I wanted to familiarize myself with the interesting sites in these amazing cities. So this is my way of doing it...
